@@ -1,1 +1,1 @@
-# Reinforcement Learning for for Tic Tac Toe
+# Reinforcement Learning for Tic Tac Toe
